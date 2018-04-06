@@ -1,0 +1,53 @@
+{
+	"products" : [
+    	{
+    		"codigo": 1,
+    		"nome": "Tênis",
+    		"imagem": "http://product.hstatic.net/1000092380/product/4697182337_136040084__1__large.jpg",
+    		"promocao": true,
+    		"preco": 250.00,
+    		"desconto": 50.00,
+            "codigoCompra": "5C2D554C0D0D5405548B1FA82967B950"
+    	},{
+    		"codigo": 1,
+    		"nome": "Tênis",
+    		"imagem": "http://product.hstatic.net/1000092380/product/4697182337_136040084__1__large.jpg",
+    		"promocao": false,
+    		"preco": 250.00,
+    		"desconto": 50.00,
+            "codigoCompra": "5C2D554C0D0D5405548B1FA82967B950"
+    	},{
+    		"codigo": 1,
+    		"nome": "Tênis",
+    		"imagem": "http://product.hstatic.net/1000092380/product/4697182337_136040084__1__large.jpg",
+    		"promocao": true,
+    		"preco": 250.00,
+    		"desconto": 50.00,
+            "codigoCompra": "5C2D554C0D0D5405548B1FA82967B950"
+    	},{
+    		"codigo": 1,
+    		"nome": "Tênis",
+    		"imagem": "http://product.hstatic.net/1000092380/product/4697182337_136040084__1__large.jpg",
+    		"promocao": false,
+    		"preco": 250.00,
+    		"desconto": 50.00,
+            "codigoCompra": "5C2D554C0D0D5405548B1FA82967B950"
+    	},{
+    		"codigo": 1,
+    		"nome": "Tênis",
+    		"imagem": "http://product.hstatic.net/1000092380/product/4697182337_136040084__1__large.jpg",
+    		"promocao": false,
+    		"preco": 250.00,
+    		"desconto": 50.00,
+            "codigoCompra": "5C2D554C0D0D5405548B1FA82967B950"
+    	},{
+    		"codigo": 1,
+    		"nome": "Tênis",
+    		"imagem": "http://product.hstatic.net/1000092380/product/4697182337_136040084__1__large.jpg",
+    		"promocao": true,
+    		"preco": 250.00,
+    		"desconto": 50.00,
+            "codigoCompra": "5C2D554C0D0D5405548B1FA82967B950"
+    	}
+    ]
+}
